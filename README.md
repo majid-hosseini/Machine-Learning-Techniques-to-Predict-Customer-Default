@@ -1,5 +1,5 @@
 # Comprehensive Evaluation of Machine Learning Techniques to Predict Customer Default
-Here historical loan application data from Lending Club Loans are used to predict whether or not an applicant will be able to repay a loan. This is a supervised classification task in which, The labels are included in the training data and the model will be trained to predict the labels from the features. Performances of multiple machine learning classifiers are compared with respect to multiple accuracy metrics including precision, recall and ROC curves.
+Here historical loan application data from Lending Club Loans are used to predict whether or not an applicant will be able to repay a loan. This is a supervised classification task in which, The labels are included in the training data and the model will be trained to predict the labels from the features. Performances of several machine learning classifiers are compared with respect to multiple accuracy metrics including precision, recall and ROC curves.
 
 Following Machine Learning classifiers are investigated here:
 
