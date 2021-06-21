@@ -9,7 +9,7 @@ Following Machine Learning classifiers are investigated here:
 - Extreme Gradient Boost Model
 - Naive Bayes Classifier
 
-##Project background and objectives
+## Project background and objectives
 Exploratory data analysis was conducted to understand relationship between features, view summary statistics, and visualize the data. Following is a heatmap from the project to visualize correlation between feature variables. 
 ![heatmap.png](images/heatmap.png)
 
